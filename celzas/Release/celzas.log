@@ -1,0 +1,11 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ficze\Desktop\Rósz dolgok\celzas\vector.h(32): warning C4172: returning address of local variable or temporary
+C:\Users\ficze\Desktop\Rósz dolgok\celzas\vector.h(17): warning C4172: returning address of local variable or temporary
+C:\Users\ficze\Desktop\Rósz dolgok\celzas\vector.h(22): warning C4172: returning address of local variable or temporary
+C:\Users\ficze\Desktop\Rósz dolgok\celzas\vector.h(38): warning C4172: returning address of local variable or temporary
+C:\Users\ficze\Desktop\Rósz dolgok\celzas\vector.h(27): warning C4172: returning address of local variable or temporary
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  celzas.vcxproj -> C:\Users\ficze\Desktop\Rósz dolgok\celzas\Release\celzas.exe
